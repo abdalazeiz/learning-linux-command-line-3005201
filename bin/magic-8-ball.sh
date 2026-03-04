@@ -9,8 +9,8 @@ ANSWERS=(
     "Cannot predict now."
     "Don't count on it."
     "Outlook not so good."
-    "Very doubtful."
-    "Ask again later."
+    " Nice Job!."
+    "Have You Lost Weight."
 )
 
 
