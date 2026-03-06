@@ -24,3 +24,5 @@ PS1='\[\e[32m\]\u@\h\[\e[m\]:\[\e[34m\]\w\[\e[m\]\$ '
 export PATH="$PATH:$(pwd)/bin"
 export PATH="$PATH:$(pwd)/bin"
 ./bin/repo.sh
+export PATH="$PATH:$(pwd)/bin"
+./bin/repo.sh
